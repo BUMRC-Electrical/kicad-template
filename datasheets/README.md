@@ -1,7 +1,7 @@
 <!-- kicad_template/datasheets/README.md -->
 
 <div align="center">
-    <img src="/img/mrc.jpeg" width="250">
+    <img src="/img/mrc.jpeg" width="200">
 </div>
 
 # Datasheets
