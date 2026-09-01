@@ -275,7 +275,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "<<XX.XX>>"
+      "sch_revision": "${MRC_REVISION}"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -723,7 +723,15 @@
       "Root"
     ]
   ],
-  "text_variables": {},
+  "text_variables": {
+    "MRC_CONTRIBUTORS": "logan fick",
+    "MRC_DATE": "9/1/2026",
+    "MRC_DESC_1": "line one",
+    "MRC_DESC_2": "line two",
+    "MRC_REVISION": "1.0.2",
+    "MRC_SUBSYSTEM": "comms",
+    "MRC_TITLE": "rf board test"
+  },
   "tuning_profiles": {
     "meta": {
       "version": 0

@@ -8,14 +8,14 @@
 	)
 	(paper "A4")
 	(title_block
-		(title "<<TITLE>>")
-		(date "<<MM/DD/YYYY>>")
-		(rev "<<XX.XX>>")
+		(title "${MRC_TITLE}")
+		(date "${MRC_DATE}")
+		(rev "${MRC_REVISION}")
 		(company "BU Mars Rover Club Electrical Team")
-		(comment 1 "<<DESCRIPTION LINE 2>>")
-		(comment 2 "<<DESCRIPTION LINE 1>>")
-		(comment 3 "<<CONTRIBUTORS>>")
-		(comment 4 "<<SUBSYSTEM>>")
+		(comment 1 "${MRC_DESC_2}")
+		(comment 2 "${MRC_DESC_1}")
+		(comment 3 "${MRC_CONTRIBUTORS}")
+		(comment 4 "${MRC_SUBSYSTEM}")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -128,7 +128,6 @@
 		)
 		(capping no)
 		(filling no)
-		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -166,6 +165,13 @@
 			(outputdirectory "")
 		)
 	)
+	(property "MRC_CONTRIBUTORS" "lorem")
+	(property "MRC_DATE" "lorem")
+	(property "MRC_DESC_1" "lorem")
+	(property "MRC_DESC_2" "lorem")
+	(property "MRC_REVISION" "lorem")
+	(property "MRC_SUBSYSTEM" "lorem")
+	(property "MRC_TITLE" "lorem")
 	(embedded_fonts no)
 	(embedded_files
 		(file

@@ -22,10 +22,8 @@ This repository is a template for the electrical team to use for board design. I
 
 4. Delete the ```kicad/default``` directory.
 
-5. Open up your newly renamed project, open the schematic editor and fill in all of the content in the bottom right.
+5. Open up your newly renamed project, open the schematic editor.
 
-- Double click the bottom right, fill in the <<SUBSYSTEM>>, <<CONTRIBUTORS>>, <<DESCRIPTION LINE 1>>
+6. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update.
 
-6. Then open the layout editor and do the same.
-
-7. Edit this README, initialize the git repository, and start working on your project!
+8. Edit this README.md file, initialize the git repository, and start working on your project!
