@@ -46,7 +46,7 @@ mrc-template/
 └── LICENSE
 ```
 
-5. Delete the ```kicad/default``` directory.
+5. Delete the ```kicad/default``` directory and rename the project folder to be ```PROJECT_NAME``` from ```mrc-template```.
 
 6. Open up your newly renamed project, ```PROJECT_NAME.kicad_pro```, and then open the schematic editor.
 
