@@ -128,6 +128,7 @@
 		)
 		(capping no)
 		(filling no)
+		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -165,13 +166,13 @@
 			(outputdirectory "")
 		)
 	)
-	(property "MRC_CONTRIBUTORS" "lorem")
-	(property "MRC_DATE" "lorem")
-	(property "MRC_DESC_1" "lorem")
-	(property "MRC_DESC_2" "lorem")
-	(property "MRC_REVISION" "lorem")
-	(property "MRC_SUBSYSTEM" "lorem")
-	(property "MRC_TITLE" "lorem")
+	(property "MRC_CONTRIBUTORS" "logan fick")
+	(property "MRC_DATE" "9/1/2026")
+	(property "MRC_DESC_1" "line one")
+	(property "MRC_DESC_2" "line two")
+	(property "MRC_REVISION" "1.0")
+	(property "MRC_SUBSYSTEM" "Comms")
+	(property "MRC_TITLE" "Comms Example Board")
 	(embedded_fonts no)
 	(embedded_files
 		(file

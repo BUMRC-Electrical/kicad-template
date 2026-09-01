@@ -20,15 +20,38 @@ Download KiCad [here](https://www.kicad.org/download/). We are using version 10.
 
 2. Open up KiCad 10.0 and open the default project in the ```kicad/default``` directory.
 
-3. Click ```save as``` and save it to the ```kicad``` directory under the name PROJECT_NAME.
+3. Click ```save as``` and save it to the ```kicad``` directory under your desired name PROJECT_NAME.
 
-4. Delete the ```kicad/default``` directory.
+4. The folder tree should look like this:
 
-5. Open up your newly renamed project, and then open the schematic editor.
+```
+mrc-template/
+├── kicad/
+│   ├── default/
+│   │   ├── mrc_template.kicad_dru
+│   │   ├── mrc_template.kicad_pcb
+│   │   ├── mrc_template.kicad_pro
+│   │   ├── mrc_template.kicad_sch
+│   │   └── sheet.kicad_wks
+│   └── PROJECT_NAME/
+│       ├── PROJECT_NAME.kicad_dru
+│       ├── PROJECT_NAME.kicad_pcb
+│       ├── PROJECT_NAME.kicad_pro
+│       ├── PROJECT_NAME.kicad_sch
+│       └── sheet.kicad_wks
+├── datasheets
+├── calculations
+├── img
+├── README.md
+└── LICENSE
+```
 
-6. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update. See a screenshot below:
+5. Delete the ```kicad/default``` directory.
+
+6. Open up your newly renamed project, and then open the schematic editor.
+
+7. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update. See a screenshot below:
 
 <img src="img/text_variables.png" width="650" max-height="400" style="padding-left: 50px;">
-
 
 8. Edit this README.md file, initialize the git repository, and start working on your project!
