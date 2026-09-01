@@ -48,10 +48,11 @@ mrc-template/
 
 5. Delete the ```kicad/default``` directory.
 
-6. Open up your newly renamed project, and then open the schematic editor.
+6. Open up your newly renamed project, ```PROJECT_NAME.kicad_pro```, and then open the schematic editor.
 
-7. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update. See a screenshot below:
+7. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update. See a screenshots below:
 
-<img src="img/text_variables.png" width="650" max-height="400" style="padding-left: 50px;">
+<img src="img/text_variables.png" width="450" max-height="400">
+<img src="img/fields.png" width="450" max-height="400">
 
 8. Edit this README.md file, initialize the git repository, and start working on your project!
