@@ -1,0 +1,17 @@
+*-backups/
+_autosave-*
+*.bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+fp-info-cache
+*.lck
+*.kicad_prl
+
+*.net
+*.dsn
+*.ses
+
+/fab/
+/gerbers/
+*.zip

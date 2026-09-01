@@ -1,0 +1,3 @@
+# BU Mars Rover Club Electrical Team KiCad 10.0 Project Template
+
+Lorem ipsum....
