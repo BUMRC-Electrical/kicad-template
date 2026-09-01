@@ -52,9 +52,13 @@ mrc-template/
 
 7. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update. See a screenshots below:
 
+<br>
+
 <div align="center">
-    <img src="img/text_variables.png" width="600" max-height="400">
-    <img src="img/fields.png" width="600" max-height="400">
+    <img src="img/text_variables.png" width="500" max-height="400">
+    <img src="img/fields.png" width="500" max-height="400">
 </div>
+
+<br>
 
 8. Edit this README.md file, initialize the git repository, and start working on your project!
