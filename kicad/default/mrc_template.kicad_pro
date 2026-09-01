@@ -728,9 +728,9 @@
     "MRC_DATE": "9/1/2026",
     "MRC_DESC_1": "line one",
     "MRC_DESC_2": "line two",
-    "MRC_REVISION": "1.0.2",
-    "MRC_SUBSYSTEM": "comms",
-    "MRC_TITLE": "rf board test"
+    "MRC_REVISION": "1.0",
+    "MRC_SUBSYSTEM": "Comms",
+    "MRC_TITLE": "Comms Example Board"
   },
   "tuning_profiles": {
     "meta": {
