@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="img/mrc.jpeg" width="400">
+    <img src="img/mrc.jpeg" width="150">
 </div>
 
 # BU Mars Rover Club Electrical Team KiCad 10.0 Project Template
