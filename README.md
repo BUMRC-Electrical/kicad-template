@@ -14,4 +14,16 @@ This repository is a template for the electrical team to use for board design. I
 
 ## Setup
 
-Lorem...
+1. Clone this repository.
+
+2. Make a new folder in the ```kicad``` directory, name is your PROJECT_NAME.
+
+3. Open up KiCad 10.0 and open the default project in the ```kicad/default``` directory.
+
+4. Click ```save as``` and save it to the PROJECT_NAME folder in the ```kicad``` directory under the name PROJECT_NAME.
+
+5. Delete ```kicad/default```.
+
+6. Open up your newly renamed project, open the schematic editor and fill in all of the content in the bottom right.
+
+7. Then open the layout editor and do the same.
