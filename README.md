@@ -27,3 +27,5 @@ This repository is a template for the electrical team to use for board design. I
 6. Open up your newly renamed project, open the schematic editor and fill in all of the content in the bottom right.
 
 7. Then open the layout editor and do the same.
+
+8. Edit this README, initialize the git repository, and start working on your project!
