@@ -16,16 +16,18 @@ This repository is a template for the electrical team to use for board design. I
 
 Download KiCad [here](https://www.kicad.org/download/). We are using version 10.0 for the club this year.
 
-1. Clone this repository.
+1. Click the ```Use this Template``` to make a personal copy of this repository.
 
-2. Open up KiCad 10.0 and open the default project in the ```kicad/default``` directory.
+2. Set the repository name to your desired name: PROJECT_NAME
 
-3. Click ```save as``` and save it to the ```kicad``` directory under your desired name PROJECT_NAME.
+3. Open up KiCad 10.0 and open the default project in the ```kicad/default``` directory.
 
-4. The folder tree should look like this:
+4. Click ```save as``` and save it to the ```kicad``` directory under your desired name PROJECT_NAME.
+
+5. The folder tree should look like this:
 
 ```
-mrc-template/
+PROJECT_NAME/
 ├── kicad/
 │   ├── default/
 │   │   ├── mrc_template.kicad_dru
@@ -46,7 +48,7 @@ mrc-template/
 └── LICENSE
 ```
 
-5. Delete the ```kicad/default``` directory and rename the project folder to be ```PROJECT_NAME``` from ```mrc-template```.
+5. Delete the ```kicad/default``` directory.
 
 6. Open up your newly renamed project, ```PROJECT_NAME.kicad_pro```, and then open the schematic editor.
 
