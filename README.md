@@ -12,7 +12,9 @@ This repository is a template for the electrical team to use for board design. I
 - ```/datasheets/``` should contain all of the .pdf files for the important components
 - ```/calculations/``` should include any significant calculations that led to a component choice or value choice
 
-## Setup
+## Using this Template in KiCad 10.0
+
+Download KiCad [here](https://www.kicad.org/download/). We are using version 10.0 for the club this year.
 
 1. Clone this repository.
 
