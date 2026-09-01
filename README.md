@@ -28,7 +28,7 @@ Download KiCad [here](https://www.kicad.org/download/). We are using version 10.
 
 6. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update. See a screenshot below:
 
-<img src="text_variables.png" width="400" max-height="400">
+<img src="img/text_variables.png" width="400" max-height="400">
 
 
 8. Edit this README.md file, initialize the git repository, and start working on your project!
