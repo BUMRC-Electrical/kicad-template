@@ -10,5 +10,5 @@ Place all relevant CAD files for casing, mounting, and housing in this folder.
 
 If it is a STEP file, upload that to this folder.
 
-For OnShape, you can leave a PDF with a link to the OnShape project in here.
+For OnShape, you can edit this README.md file and add a link to the OnShape project.
 
