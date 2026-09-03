@@ -23,11 +23,13 @@ Download KiCad [here](https://www.kicad.org/download/). We are using version 10.
 
 2. Set the repository name to your desired name: PROJECT_NAME
 
-3. Open up KiCad 10.0 and open the default project in the ```kicad/default``` directory.
+3. Clone the repository to your local machine, preferably in a projects folder for Mars Rover Club.
 
-4. Click ```save as``` and save it to the ```kicad``` directory under your desired name PROJECT_NAME.
+4. Open up KiCad 10.0 and open the default project in the ```kicad/default``` directory.
 
-5. The folder tree should look like this:
+5. Click ```save as``` and save it to the ```kicad``` directory under your desired name PROJECT_NAME.
+
+6. The folder tree should look like this:
 
 ```
 PROJECT_NAME/
@@ -51,11 +53,11 @@ PROJECT_NAME/
 └── LICENSE
 ```
 
-5. Delete the ```kicad/default``` directory.
+7. Delete the ```kicad/default``` directory.
 
-6. Open up your newly renamed project, ```PROJECT_NAME.kicad_pro```, and then open the schematic editor.
+8. Open up your newly renamed project, ```PROJECT_NAME.kicad_pro```, and then open the schematic editor.
 
-7. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update. See a screenshots below:
+9. Click ```File -> Schematic Setup```, then under ```Project -> Text Variables```, populate all of the fields with the correct information such as ```contributors``` and board ```revision```. Then click OK and you should see the bottom right of the schematic and layout correctly update. See a screenshots below:
 
 <br>
 
