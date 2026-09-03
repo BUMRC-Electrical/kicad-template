@@ -13,6 +13,7 @@ This repository is a template for the electrical team to use for board design. I
 - ```/kicad/``` contains all of the KiCad 10.0 project files
 - ```/datasheets/``` should contain all of the .pdf files for the important components
 - ```/calculations/``` should include any significant calculations that led to a component choice or value choice
+- ```/cad/``` should include any .STEP or .STL files used with your board, or a link to your OnShape document
 
 ## Using this Template in KiCad 10.0
 
